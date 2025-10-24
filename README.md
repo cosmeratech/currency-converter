@@ -101,14 +101,7 @@ Convert again? (y/n): y
 -   C++ compiler (g++, clang++, etc.)
 -   Standard C++ library (`<iostream>`)
 
-## File Structure
 
-```
-januwu/
-├── currency-conveeter.cpp    # Main source code
-├── README_Currency.md       # This documentation
-└── currency                 # Compiled executable (after compilation)
-```
 
 ## Quick Start
 
