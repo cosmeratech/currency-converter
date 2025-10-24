@@ -105,7 +105,7 @@ Convert again? (y/n): y
 
 ## Quick Start
 
-1. **Compile**: `g++ -o currency currency-conveeter.cpp`
+1. **Compile**: `g++ -o currency currency-converter.cpp`
 2. **Run**: `./currency`
 3. **Follow prompts**: Enter source currency, amount, target currency
 4. **Get result**: See converted amount
